@@ -1,0 +1,8 @@
+spring.application.name=world
+server.port=8090
+spring.datasource.url=jdbc:Enter your url
+spring.datasource.username= Enter your username
+spring.datasource.password= Enter your mysql password
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.properties.hibernate.dialect
